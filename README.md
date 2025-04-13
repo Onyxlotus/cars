@@ -1,1 +1,1 @@
-https://onyxlotus.github.io/cars/#order
+https://onyxlotus.github.io/cars
